@@ -4,9 +4,14 @@
 # jfbpack
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/jfberner/jfbpack/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jfberner/jfbpack/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of jfbpack is to …
+The goal of jfbpack is to experiment and learn how to create an R
+package, hopefully the first of many the author publishes. It contains a
+single function that gives one of three diversity indices of a given
+vector.
 
 ## Installation
 
