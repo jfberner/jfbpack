@@ -1,0 +1,13 @@
+Package: jfbpack
+Title: Diversity Indices
+Version: 0.0.0.9000
+Authors@R: 
+    person("Berner", "Joao", , "jfredericoberner@gmail.com", role = c("aut", "cre"))
+Description: Package only contains one function that computes the following diversity indices: Shannon, Simpson and Inverse-Simpson.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
