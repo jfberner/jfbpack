@@ -4,7 +4,7 @@ I learned how to do this as an exercise for a course on Computational Methods by
 
 To install the package, run:
 ``` r
-remotes::install_github('jfberner/jfbpack)
+remotes::install_github('jfberner/jfbpack')
 ```
 For this package, I created a single function called my_diversity, that computes one of three diversity indices (Shannon, Simpson or Inverse-Simpson) for any vector that contains abundances. The function takes two arguments, the vector itself and the diversity index as a string. See the example below:
 
