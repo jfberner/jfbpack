@@ -18,7 +18,7 @@ vector.
 You can install the development version of jfbpack like so:
 
 ``` r
-remotes::install_github('jfberner/pfbpack)
+remotes::install_github('jfberner/jfbpack)
 ```
 
 ## Example
